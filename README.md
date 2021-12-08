@@ -9,6 +9,6 @@ Automatic bin (Bank Identification Number Check it and generate credit cards  ) 
 # Installation <b>
 pkg install git <br>
 pkg install php <br>
-git clone https://github.com/renlowsphere/dragon-bin <br>
+
 cd IT-bin <br>
 php IT-bin.php
