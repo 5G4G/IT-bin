@@ -9,6 +9,6 @@ Automatic bin (Bank Identification Number Check it and generate credit cards  ) 
 # Installation <b>
 pkg install git <br>
 pkg install php <br>
-
+git clone https://github.com/5G4G/IT-bin
 cd IT-bin <br>
 php IT-bin.php
