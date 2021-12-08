@@ -1,6 +1,6 @@
 # IT-bin
 Complete BIN Checking Tool, Extracting BIN, Generating Credit Card
-# IT-bin
+
 Automatic bin (Bank Identification Number Check it and generate credit cards  ) finder for easier testing for developers.
 
 # Disclaimer
