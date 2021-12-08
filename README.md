@@ -13,3 +13,11 @@ git clone https://github.com/5G4G/IT-bin
 
 cd IT-bin <br>
 php IT-bin.php
+
+
+
+صفحتنا على فيسبوك
+https://www.facebook.com/5G4G.IT
+
+تلجرام
+https://t.me/s_cvd
